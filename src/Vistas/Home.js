@@ -14,7 +14,7 @@ import './Home.css'
 function Home () { 
 
     return (
-        
+
 <section className="animsition">
     <div className="page-wrapper">       
         <div className="page-container">           
@@ -48,7 +48,7 @@ function Home () {
                         </div>
                     </div>
             </div>
-           
+            
             <div className="main-content">
                 <div className="section__content section__content--p30">
                     <div className="container-fluid">
