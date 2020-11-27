@@ -1,12 +1,12 @@
 // import React, { Fragment } from 'react';
 import React from "react";
 import Logo from "../img/logo.png";
-import add from "../img/Home/add.png";
+// import add from "../img/Home/add.png";
 import avatar from "../img/Home/avatar-01.png";
-import card from "../img/Home/card.png";
-import home from "../img/Home/home.png";
+// import card from "../img/Home/card.png";
+// import home from "../img/Home/home.png";
 import mdi_search from "../img/Home/mdi_search.png";
-import search from "../img/Home/search.png";
+// import search from "../img/Home/search.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "../Temas/Temas.css";
